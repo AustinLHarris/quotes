@@ -1,0 +1,75 @@
+#testimonial{
+    background: #f1f1f1;
+    padding: 150px 50px 150px 50px;
+    text-align: center;
+    /* margin-top: 40px; */
+    align-items: center;
+    width: 900px;
+ }
+ .body1{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+ .body2 {
+    background-image: url(images/valentines-day-background-15162385503id.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .body3 {
+    background-image: url(images/ai-nuclear-energy-background-future-innovation-disruptive-technology.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ img {
+    max-width: 100%;
+    height: auto;
+  }
+  .quote {
+      opacity: 100%;
+      width: auto;
+      margin: auto;
+      margin-left: 75px;
+  }
+  #section {
+    opacity: 100%;
+  }
+  #seethrough {
+
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    width: auto;
+    margin: auto;
+  }
+  #holder {
+      height: 200 px;
+    
+  }
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(50%);
+    /* transform: translateX(50%); */
+    color: rgb(212, 36, 36);
+    text-align: center;
+  }
+  .vertical-center2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -ms-transform: translateX(50%);
+    /* transform: translateX(50%); */
+    color: rgb(31, 30, 30);
+    text-align: center;
+  }
+  .hey {
+      color: white;
+  }
